@@ -82,6 +82,7 @@ src/
  ├── ai/              # AI logic and prompts
  ├── routes/          # API routes
  ├── middlewares/     # Auth & validation
+ ├── apis             # API routes handler
  ├── utils/           # Helpers
  └── server.ts           # App entry point
 ```
@@ -101,8 +102,7 @@ src/
 - Real-time collaboration  
 - Voice-to-document support  
 - Browser extension  
-- Offline mode  
-- Mobile application
+- Offline mode
 
 ---
 ## 👥 Team
@@ -110,8 +110,8 @@ src/
 | Name | Role |
 |------|------|
 | Jeremiah Deku | Backend Engineer / System Design |
-| Team Member 2 | Frontend Engineer |
-| Team Member 3 | AI Engineer |
+| Francis Papafie | Frontend Engineer |
+| Hannah Odoi | AI Engineer |
 
 ---
 ## 🌟 Why This Project Matters
