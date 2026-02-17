@@ -1,6 +1,6 @@
 # 🧠 AI Document Assistant
 
-> Your intelligent AI assistant for working with documents — helping you write better, summarize faster, and never forget important steps again.
+> Your intelligent AI assistant for working with documents - helping you write better, summarize faster, and never forget important steps again.
 
 ---
 
@@ -83,7 +83,7 @@ src/
  ├── routes/          # API routes
  ├── middlewares/     # Auth & validation
  ├── utils/           # Helpers
- └── app.js           # App entry point
+ └── server.ts           # App entry point
 ```
 
 ---
@@ -128,4 +128,4 @@ It is built with production-level thinking, not just for academic purposes.
 
 ---
 ## 🏗️ System Architecture
-
+![Banner](https://github.com/user-attachments/assets/0d09fd71-2342-427b-b114-2f09b8a33feb)
